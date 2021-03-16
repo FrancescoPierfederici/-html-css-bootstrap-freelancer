@@ -4,3 +4,23 @@
     box-sizing: border-box;
 }
 /* mobile views */
+.back{
+    background-color: aquamarine;
+    border:1px solid black;
+    height: 400px;
+}
+.back1{
+    background-color: rgb(28, 32, 88);
+    border:1px solid black;
+    height: 100px;
+}
+.back2{
+    
+    border:1px solid black;
+    height: 300px;
+}
+.back3{
+    background-color: rgba(28, 32, 88, 0.795);
+    border:1px solid black;
+    height: 200px;
+}
